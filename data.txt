@@ -1,0 +1,11 @@
+0:0
+1:Dogs
+2:Fruitfly
+3:Human Body
+4:Lizards
+5:Squirrel
+6:aphid
+7:fly
+8:kid
+9:person
+10:rat
